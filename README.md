@@ -38,8 +38,8 @@ ChebyNet(snet-lnet)-sfDLN is used for experiments given below. ChebyNet- sfDLN -
 
 | Model    | Accuracy | F1 Score |
 | :--- |:-------: | :-------:|
-| ChebyNet-sfDLN-I | 0.520 ± 0.023     |  0.440 ± 0.046 |
-| ChebyNet-sfDLN   | 0.543 ± 0.027     |  0.636 ± 0.040 |
+| ChebyNet-sfDLN-I | 0.520 ± 0.036     |  0.458 ± 0.040 |
+| ChebyNet-sfDLN   | 0.545 ± 0.029     |  0.478 ± 0.027 |
 
 
 
